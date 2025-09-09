@@ -71,7 +71,7 @@ header nav a:hover {
   box-sizing: border-box;
 }
 .hero img {
-  max-width: 100%;
+  max-width: 450px;
   height: auto;
   margin-right: 20px;
   flex-shrink: 0;
